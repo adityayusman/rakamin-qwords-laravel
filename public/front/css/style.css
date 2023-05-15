@@ -486,12 +486,13 @@
 }
 
 .komitmen-list-item-title {
-    margin: 10px auto;
+    margin: 30px auto;
+    margin-bottom: 10px;
 }
 
 .komitmen-list-item-desc {
     font-size: 0.9rem;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
 }
 
 /* Guarantee Section */
@@ -557,11 +558,21 @@
 /* Footer */
 
 footer {
-    background-color: var(--secondary-color);
+    background-color: var(--dark-color);
     list-style: none;
     color: #eff2f7;
 }
 .footer-container {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
+    padding: 30px 30px;
+    margin: 0 auto;
+}
+
+.footer-container h3 {
+    font-size: 1.5rem;
+}
+
+.footer-container li {
+    font-size: 0.9rem;
 }

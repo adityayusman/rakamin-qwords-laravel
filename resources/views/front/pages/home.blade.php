@@ -253,7 +253,7 @@
                     </div>
                 </div>
                 <div class="sector-card__body">
-                    <p class="sector-card-desc">WWebsite sebagai wadah perkumpulan komunitas atau organisasi di
+                    <p class="sector-card-desc">Website sebagai wadah perkumpulan komunitas atau organisasi di
                         internet.</p>
 
                 </div>
@@ -341,7 +341,7 @@
         <div class="komitmen-container">
             <div class="komitmen-card">
                 <div class="komitmen-card__header">
-                    <i class="fa-brands fa-expeditedssl"></i>
+                    <i class="fa-solid fa-clock-rotate-left"></i>
                     <h1 class="komitmen-list-item-title">Layanan 24/7</h1>
                     <p class="komitmen-list-item-desc">Tim Technical Support dan Customer Service Qwords siap membantu
                         Anda selama 24 jam, 7 hari. Anda dapat menghubungi melalui Live chat, Call Center, dan Support
@@ -350,7 +350,7 @@
             </div>
             <div class="komitmen-card">
                 <div class="komitmen-card__header">
-                    <i class="fa-brands fa-expeditedssl"></i>
+                    <i class="fa-solid fa-address-book"></i>
                     <h1 class="komitmen-list-item-title">Panduan Manual Lengkap</h1>
                     <p class="komitmen-list-item-desc">Qwords dilengkapi dengan halaman knowledge base yang berisi
                         tutorial dan tips seputar pengelolaan website. Dapat diakses dengan mudah dan solutif.</p>
@@ -358,7 +358,7 @@
             </div>
             <div class="komitmen-card">
                 <div class="komitmen-card__header">
-                    <i class="fa-brands fa-expeditedssl"></i>
+                    <i class="fa-solid fa-server"></i>
                     <h1 class="komitmen-list-item-title">Uptime 99.99%</h1>
                     <p class="komitmen-list-item-desc">Uptime Network & Server di atas 99.99% dengan konfigurasi server
                         yang tepat. Didukung manajemen jaringan dan multiple upstream tier 1 provider network serta
@@ -375,7 +375,7 @@
             </div>
             <div class="komitmen-card">
                 <div class="komitmen-card__header">
-                    <i class="fa-brands fa-expeditedssl"></i>
+                    <i class="fa-solid fa-globe"></i>
                     <h1 class="komitmen-list-item-title">Clustered DNS</h1>
                     <p class="komitmen-list-item-desc">DNS Server Cloud Hosting Qwords terhubung satu dengan yang
                         lainnya. Hal ini membuat DNS Server akan selalu dapat di akses karena saling membackup antar
@@ -384,7 +384,7 @@
             </div>
             <div class="komitmen-card">
                 <div class="komitmen-card__header">
-                    <i class="fa-brands fa-expeditedssl"></i>
+                    <i class="fa-regular fa-gem"></i>
                     <h1 class="komitmen-list-item-title">High Enterprise Server</h1>
                     <p class="komitmen-list-item-desc">Standar server Qwords adalah server kelas enterprise Dual Xeon
                         Octa Core yang merupakan hardware kelas terbaik. Hardware ini biasa digunakan oleh perusahaan
@@ -393,7 +393,7 @@
             </div>
             <div class="komitmen-card">
                 <div class="komitmen-card__header">
-                    <i class="fa-brands fa-expeditedssl"></i>
+                    <i class="fa-regular fa-hard-drive"></i>
                     <h1 class="komitmen-list-item-title">
                         Tier 1 Network</h1>
                     <p class="komitmen-list-item-desc">TTier 1 Network merupakan jaringan dunia tanpa transit network,
@@ -403,7 +403,7 @@
             </div>
             <div class="komitmen-card">
                 <div class="komitmen-card__header">
-                    <i class="fa-brands fa-expeditedssl"></i>
+                    <i class="fa-solid fa-diagram-project"></i>
                     <h1 class="komitmen-list-item-title">Peering Network</h1>
                     <p class="komitmen-list-item-desc">Jaringan di Qwords terhubung langsung ke public peering seperti
                         OpenIXP dan CDIX yang membuat latency atau waktu tunggu pengiriman data semakin kecil.</p>
@@ -481,6 +481,7 @@
                 alt="">
     </section>
 
+    {{-- Footer --}}
     <footer>
         <div class="footer-container">
             <div class="about">
@@ -497,42 +498,34 @@
                 </div>
             </div>
             <div class="about">
-                <h3>Mengenal Kami</h3>
+                <h3>MSA/SLA/AUP</h3>
                 <div>
-                    <li>Corporate Website</li>
-                    <li>Qwords History</li>
-                    <li>Qwords Differences</li>
-                    <li>Media Publication</li>
-                    <li>Network & Infrastructure</li>
-                    <li>Partner</li>
-                    <li>Media Kit</li>
-                    <li>Career & Employment</li>
+                    <li>Master Service Agreement</li>
+                    <li>Refund Policy</li>
+                    <li>Privacy Policy</li>
+                    <li>Product Life Cycle Policy</li>
+                    <li>Penggunaan Merek dan Logo</li>
+                    <li>Faktur Pajak</li>
+                    <li>Migrasi Ke Qwords</li>
                 </div>
             </div>
             <div class="about">
-                <h3>Mengenal Kami</h3>
+                <h3>Layanan Reseller</h3>
                 <div>
-                    <li>Corporate Website</li>
-                    <li>Qwords History</li>
-                    <li>Qwords Differences</li>
-                    <li>Media Publication</li>
-                    <li>Network & Infrastructure</li>
-                    <li>Partner</li>
-                    <li>Media Kit</li>
-                    <li>Career & Employment</li>
+                    <li>Afiliasi</li>
+                    <li>Qwords Partner</li>
+                    <li>Private Label cPanel Reseller</li>
+                    <li>Private Label Domain Reseller</li>
                 </div>
             </div>
             <div class="about">
-                <h3>Mengenal Kami</h3>
+                <h3>Layanan Lainnya</h3>
                 <div>
-                    <li>Corporate Website</li>
-                    <li>Qwords History</li>
-                    <li>Qwords Differences</li>
-                    <li>Media Publication</li>
-                    <li>Network & Infrastructure</li>
-                    <li>Partner</li>
-                    <li>Media Kit</li>
-                    <li>Career & Employment</li>
+                    <li>Standard Support</li>
+                    <li>Flexi Main Domain</li>
+                    <li>FTP Backup</li>
+                    <li>Hosting Insurance</li>
+
                 </div>
             </div>
         </div>
