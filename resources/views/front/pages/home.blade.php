@@ -435,8 +435,8 @@
     </section>
 
     {{-- Partner Section --}}
-    <section class="customer-section" id="customer-section">
-        <h1 class="customer-title">Partner kami</h1>
+    <section class="partner-section" id="customer-section">
+        <h1 class="partner-title">Partner kami</h1>
         <div class="partner-container">
             <img src="https://www.qwords.com/v1/wp-content/themes/qwords_v10/assets/images/partners/googlecloud.png"
                 alt="">
@@ -456,7 +456,9 @@
 
     {{-- Review Section --}}
     <section class="customer-section" id="customer-section">
-        <h1 class="customer-title">Partner kami</h1>
+        <h1 class="customer-title">Apa kata mereka?</h1>
+        <p class="customer-desc">Apa kata mereka yang sudah menggunakan layanan Qwords? Simak pengalaman mereka yang
+            telah membuktikan sendiri fitur dari layanan kami.</p>
         <div class="review-container">
             <img src="https://www.qwords.com/v1/wp-content/uploads/2020/09/sukses-story-id-cert.png" alt="">
             <img src="https://www.qwords.com/v1/wp-content/uploads/2020/09/sukses-story-infobdg.png" alt="">
@@ -526,6 +528,62 @@
                     <li>FTP Backup</li>
                     <li>Hosting Insurance</li>
 
+                </div>
+            </div>
+        </div>
+        <div class="contact-container">
+            <div class="contact">
+                <h3>PT Qwords Company International</h3>
+                <p>Cloud Web Hosting Indonesia. Domain & hosting terbaik dengan akses cepat yang didukung layanan
+                    support 24/7.</p>
+                <img src="https://www.qwords.com/v1/wp-content/themes/qwords_v10/assets/images/mark-of-trust-certified-ISOIEC-27001-information-security-management-white-logo-En-GB-1019.png"
+                    alt="">
+                <div class="certificate">
+                    <img src="https://www.qwords.com/v1/wp-content/themes/qwords_v10/assets/images/ICANN-Accred-Regi-Logo_Corptk08-120px.png"
+                        alt="">
+                    <img src="https://www.qwords.com/v1/wp-content/themes/qwords_v10/assets/images/badge_litespeed.svg"
+                        alt="">
+                    <img src="https://www.qwords.com/v1/wp-content/themes/qwords_v10/assets/images/badge_whmadmin.svg"
+                        alt="">
+                    <img src="https://www.qwords.com/v1/wp-content/themes/qwords_v10/assets/images/acronis-cloud-tech.png"
+                        alt="">
+                    <img src="https://www.qwords.com/v1/wp-content/themes/qwords_v10/assets/images/acronis-cloud-sales.png"
+                        alt="">
+                </div>
+            </div>
+            <div class="office">
+                <div class="office-item">
+                    <h3>Kantor Jakarta</h3>
+                    <p>Gedung Cyber 1 Lantai 3, Jl.Kuningan Barat No 8, Jakarta 12710 - Indonesia</p>
+                    <p><i class="fa-solid fa-phone"></i> 021 39708800</p>
+                </div>
+                <div class="office-item">
+                    <h3>Kantor Yogyakarta</h3>
+                    <p>Jl. Blotan No 18 Kayen, Desa/Kel. Wedomartani, Kec. Ngemplak, Kab. Sleman, Provinsi
+                        D.I.Yogyakarta 55584 - Indonesia</p>
+                    <p><i class="fa-solid fa-phone"></i> 0274 6058800</p>
+                </div>
+                <div class="office-item">
+                    <h3>Kantor Bandung</h3>
+                    <p>Jl. Terusan Setra Indah I No.19, Sukagalih, Kec. Sukajadi, Kota Bandung 40163 - Indonesia</p>
+                    <p><i class="fa-solid fa-phone"></i> 022 30508800</p>
+                </div>
+                <div class="office-item">
+                    <h3>Kantor Jakarta</h3>
+                    <p>Gedung Cyber 1 Lantai 3, Jl.Kuningan Barat No 8, Jakarta 12710 - Indonesia</p>
+                    <p><i class="fa-solid fa-phone"></i> 021 39708800</p>
+                </div>
+            </div>
+
+        </div>
+        <div class="social">
+            <div class="social-container">
+                <p> © PT Qwords Company International</p>
+                <div class="social-icons">
+                    <i class="fa-brands fa-square-facebook"></i>
+                    <i class="fa-brands fa-square-instagram"></i>
+                    <i class="fa-brands fa-square-twitter"></i>
+                    <i class="fa-brands fa-square-youtube"></i>
                 </div>
             </div>
         </div>

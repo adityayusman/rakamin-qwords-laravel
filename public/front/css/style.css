@@ -533,16 +533,32 @@
     margin-top: 150px;
 }
 
+.customer-desc {
+    margin: 15px auto;
+}
+
 .customer-list {
     margin: 40px auto;
 }
 
 /* Partner Section */
+.partner-section {
+    text-align: center;
+    margin: 150px auto;
+}
+
 .partner-container {
     display: flex;
     justify-content: center;
-    align-items: center;
     max-width: 1200px;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.partner-container img {
+    width: 100%;
+    max-width: 200px;
+    height: auto;
 }
 
 /* Review Section */
@@ -575,4 +591,64 @@ footer {
 
 .footer-container li {
     font-size: 0.9rem;
+}
+
+.contact-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding: 30px 30px;
+    margin: 0 auto;
+    gap: 30px;
+}
+
+.contact-container .contact img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    margin: 20px auto;
+    display: block;
+}
+
+.contact-container .certificate {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.contact-container .certificate img {
+    width: 100%;
+    max-width: 70px;
+    height: auto;
+}
+
+.office {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+
+.social {
+    background-color: var(--secondary-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 30px;
+}
+
+.social-container {
+    margin: 0 auto;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    margin: 10px auto;
+}
+
+.social-icons i {
+    font-size: 1.5em;
 }
